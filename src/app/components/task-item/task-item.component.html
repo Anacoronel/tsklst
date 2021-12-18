@@ -1,5 +1,14 @@
 <div class="task">
-    <p>{{task.text}}</p>
-    <p>{{task.dia}}</p>
+    <p>
+        {{task.text}}
+        <fa-icon 
+            [icon]="faTimes"
+            [ngStyle]="{'color':'red'}"
+
+        ></fa-icon>
+    </p>
+    <p>
+        {{task.dia}}
+    </p>
 
 </div>
