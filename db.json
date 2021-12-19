@@ -10,13 +10,25 @@
       "id": 3,
       "text": "nueva tarea",
       "dia": "dieciembre",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 4,
       "text": "Investigar sobre Boostrap",
       "dia": "Agosto 5 a las 13:00",
       "reminder": true
+    },
+    {
+      "text": "estudia",
+      "day": "todo el tiempo",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "tenndaos",
+      "day": "hsakhas",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
