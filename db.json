@@ -3,27 +3,27 @@
     {
       "id": 1,
       "text": "Investigar sobre Boostrap",
-      "day": "Agosto 5 a las 13:00",
+      "dia": "Agosto 5 a las 13:00",
       "reminder": true
     },
     {
       "id": 2,
       "text": "Nueva tarea",
-      "day": "mañana",
+      "dia": "mañana",
       "reminder": false
       
     },
     {
       "id": 3,
       "text": "nueva tarea",
-      "day": "dieciembre",
+      "dia": "dieciembre",
       "reminder": false
       
     },
     {
       "id": 4,
       "text": "Investigar sobre Boostrap",
-      "day": "Agosto 5 a las 13:00",
+      "dia": "Agosto 5 a las 13:00",
       "reminder": true
     }
   ]
