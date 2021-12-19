@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { TaskService } from '../../sevice/task.service';
-import { Task } from '../../Task';
+import { Task} from '../../Task' 
 
 
 
@@ -15,11 +15,11 @@ tasks:Task[] = [];
   constructor(
     private taskService:TaskService
   ) { }
-
   ngOnInit():  void {
-    this.taskService.getTasks().subscribe((tasks) => {
-      this.tasks=tasks
-    });
+    this.taskService.getTasks().subscribe((tasks) => 
+     {this.tasks=tasks}
+    );
   }
 
 }
+
