@@ -1,32 +1,14 @@
 {
   "tasks": [
     {
-      "id": 2,
-      "text": "Nueva tarea",
-      "dia": "mañana",
-      "reminder": false
-    },
-    {
-      "id": 3,
-      "text": "nueva tarea",
-      "dia": "dieciembre",
-      "reminder": true
-    },
-    {
-      "id": 4,
-      "text": "Investigar sobre Boostrap",
-      "dia": "Agosto 5 a las 13:00",
-      "reminder": true
-    },
-    {
-      "text": "estudia",
-      "day": "todo el tiempo",
+      "text": "Traer lista",
+      "day": "mañana",
       "reminder": true,
       "id": 5
     },
     {
-      "text": "tenndaos",
-      "day": "hsakhas",
+      "text": "estudiar bootstrap",
+      "day": "julio 5",
       "reminder": true,
       "id": 6
     }
