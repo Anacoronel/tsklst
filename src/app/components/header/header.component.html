@@ -6,6 +6,8 @@
         color="{{showAddTask ? 'red': 'green'}}" 
         text="{{showAddTask ? 'Close': 'Add'}}"
         (click)="toggleAddTask()"
+        *ngIf="hasRoute('/')"
+
     >
 </app-button>
 
